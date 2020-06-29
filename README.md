@@ -1,5 +1,5 @@
 # cdcollection-store-MySqldatabase
 
-##Welcome..!
+cdcollection-store database design using MySQL.
 
 
